@@ -1,6 +1,6 @@
 # Certificates
 
-Course certificates I have earned on DataCamp and Kaggle Learn, plus the AI Skills Studio missions I have finished on Handshake. Each row links to my copy of the certificate in this repo and to the public page where the issuer confirms it.
+Course certificates I have earned on DataCamp and Kaggle Learn, plus the AI Skills Studio missions I have finished on Handshake and one course from UNITAR. Each row links to my copy of the certificate in this repo and to the public page where the issuer confirms it.
 
 ## DataCamp
 
@@ -69,6 +69,12 @@ Handshake does not issue certificate files for these. Finishing a mission adds a
 | Present Your Insights in a Persuasive Deck | Handshake with Gamma | not recorded | none | [Stress Is Moving to the Edge](https://app.joinhandshake.com/ai-showcase/projects/3562531) |
 | How Evals Improve AI Models | Handshake with OpenAI | not recorded | none | [Eval: 2019 vs 2023](https://app.joinhandshake.com/ai-showcase/projects/3562557) |
 | Create a Multiplayer Game challenge | Handshake with OpenAI | not recorded | none | [Rise of Realms](https://app.joinhandshake.com/ai-showcase/projects/3515815) |
+
+## Other
+
+| Course | Issuer | Date earned | File | Verify |
+|---|---|---|---|---|
+| SDG-aligned budgeting (online course) | UNITAR with UNDP | Oct 15, 2026 | [PDF](other/sdg-aligned-budgeting.pdf) | none on file |
 
 ## LinkedIn Learning
 
