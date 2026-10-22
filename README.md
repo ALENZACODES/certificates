@@ -58,10 +58,11 @@ Course certificates I have earned on DataCamp and Kaggle Learn, plus the AI Skil
 
 ## Handshake AI Skills Studio
 
-Handshake does not issue certificate files for these. Finishing a mission adds a project to my Handshake Showcase, and submitting a Showcase project earns the AI Project Builder badge. The project pages sit inside Handshake, so you need to be signed in to view them.
+Handshake does not issue certificate files for these. Finishing a mission adds a project to my Handshake Showcase, and submitting a Showcase project earns the AI Project Builder badge. The project pages sit inside Handshake, so you need to be signed in to view them. More detail is in the [Handshake folder](handshake/README.md).
 
 | Mission or challenge | Issuer | Date earned | File | Verify |
 |---|---|---|---|---|
+| AI project builder badge | Handshake | not shown | [PNG](handshake/ai-project-builder-badge.png) | [Profile screenshot](handshake/ai-project-builder-profile.png) |
 | Set Up a Sales CRM | Handshake with Notion | not recorded | none | [Deal Desk CRM](https://app.joinhandshake.com/ai-showcase/projects/3561659) |
 | Set Up a Job Search Command Center | Handshake with Notion | not recorded | none | [Gig and Consulting Command Center](https://app.joinhandshake.com/ai-showcase/projects/3561640) |
 | Turn Data into an Interactive Dashboard | Handshake with OpenAI | not recorded | none | [Canada's Rate Cycle](https://app.joinhandshake.com/ai-showcase/projects/3596210) |
