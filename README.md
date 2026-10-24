@@ -1,6 +1,15 @@
 # Certificates
 
-Course certificates I have earned on DataCamp, Kaggle Learn, the AMD AI Academy and LinkedIn Learning, plus the AI Skills Studio missions I have finished on Handshake and one course from UNITAR. Each row links to my copy of the certificate in this repo and, where the issuer has one, to the public page where it confirms the certificate.
+Professional certifications from the Corporate Finance Institute (CFI), plus course certificates I have earned on DataCamp, Kaggle Learn, the AMD AI Academy and LinkedIn Learning, plus the AI Skills Studio missions I have finished on Handshake and one course from UNITAR. Each row links to my copy of the certificate in this repo and, where the issuer has one, to the public page where it confirms the certificate.
+
+## Corporate Finance Institute (CFI)
+
+Full CFI certification programs, each made up of many courses and graded assessments.
+
+| Certification | Issuer | Date earned | Certificate number | File |
+|---|---|---|---|---|
+| Financial Modeling & Valuation Analyst (FMVA) | Corporate Finance Institute | Apr 22, 2026 | 180457249 | [PDF](cfi/fmva-financial-modeling-valuation-analyst.pdf) |
+| Commercial Banking & Credit Analyst (CBCA) | Corporate Finance Institute | Apr 15, 2026 | 179828761 | [PDF](cfi/cbca-commercial-banking-credit-analyst.pdf) |
 
 ## DataCamp
 
