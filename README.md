@@ -1,6 +1,6 @@
 # Certificates
 
-Course certificates I have earned on DataCamp and Kaggle Learn, plus the AI Skills Studio missions I have finished on Handshake and one course from UNITAR. Each row links to my copy of the certificate in this repo and to the public page where the issuer confirms it.
+Course certificates I have earned on DataCamp, Kaggle Learn, the AMD AI Academy and LinkedIn Learning, plus the AI Skills Studio missions I have finished on Handshake and one course from UNITAR. Each row links to my copy of the certificate in this repo and, where the issuer has one, to the public page where it confirms the certificate.
 
 ## DataCamp
 
@@ -56,6 +56,29 @@ Course certificates I have earned on DataCamp and Kaggle Learn, plus the AI Skil
 | Intro to AI Ethics | Kaggle | Oct 15, 2026 | [PNG](kaggle/intro-to-ai-ethics.png) | [kaggle.com](https://www.kaggle.com/learn/certification/johnnykhan1/intro-to-ai-ethics) |
 | Intro to Game AI and Reinforcement Learning | Kaggle | Oct 15, 2026 | [PNG](kaggle/intro-to-game-ai-and-reinforcement-learning.png) | [kaggle.com](https://www.kaggle.com/learn/certification/johnnykhan1/intro-to-game-ai-and-reinforcement-learning) |
 
+## AMD AI Academy
+
+Certificates of completion from the free AMD AI Academy courses. Each course had video lessons, a hands on lab on AMD GPU notebooks where the course included one, and a graded quiz. AMD does not give a public verify page for these, so the PDF is the record.
+
+| Course | Issuer | Date earned | File | Verify |
+|---|---|---|---|---|
+| AI on AMD | AMD AI Academy | Oct 22, 2026 | [PDF](amd/ai-on-amd.pdf) | none on file |
+| Hugging Face on AMD | AMD AI Academy | Oct 22, 2026 | [PDF](amd/hugging-face-on-amd.pdf) | none on file |
+| Introduction to Prompting | AMD AI Academy | Oct 22, 2026 | [PDF](amd/introduction-to-prompting.pdf) | none on file |
+| Introduction to LLM Architectures and AMD AI Models | AMD AI Academy | Oct 23, 2026 | [PDF](amd/introduction-to-llm-architectures-and-amd-ai-models.pdf) | none on file |
+| Introduction to AI on AMD AI PC | AMD AI Academy | Oct 23, 2026 | [PDF](amd/introduction-to-ai-on-amd-ai-pc.pdf) | none on file |
+| PyTorch on AMD | AMD AI Academy | Oct 23, 2026 | [PDF](amd/pytorch-on-amd.pdf) | none on file |
+| CUDA to HIP/ROCm Platform: Concept Mapping and Migration Considerations | AMD AI Academy | Oct 23, 2026 | [PDF](amd/cuda-to-hip-rocm-platform.pdf) | none on file |
+| HIP Porting Overview: Concepts, Workflow, and Best Practices | AMD AI Academy | Oct 23, 2026 | [PDF](amd/hip-porting-overview.pdf) | none on file |
+| Introduction to HIP Programming Basics | AMD AI Academy | Oct 23, 2026 | [PDF](amd/introduction-to-hip-programming-basics.pdf) | none on file |
+| HIP Compilation and Toolchain | AMD AI Academy | Oct 23, 2026 | [PDF](amd/hip-compilation-and-toolchain.pdf) | none on file |
+| HIP Kernel Programming | AMD AI Academy | Oct 23, 2026 | [PDF](amd/hip-kernel-programming.pdf) | none on file |
+| Debugging RDNA GPU Kernels Using ROCgdb | AMD AI Academy | Oct 23, 2026 | [PDF](amd/debugging-rdna-gpu-kernels-using-rocgdb.pdf) | none on file |
+| ROCm Profiling on the RDNA Architecture | AMD AI Academy | Oct 23, 2026 | [PDF](amd/rocm-profiling-on-the-rdna-architecture.pdf) | none on file |
+| Triton Kernel Development on AMD Instinct GPUs | AMD AI Academy | Oct 23, 2026 | [PDF](amd/triton-kernel-development-on-amd-instinct-gpus.pdf) | none on file |
+| Kubernetes on AMD Instinct GPUs: From Zero to AI Inference | AMD AI Academy | Oct 23, 2026 | [PDF](amd/kubernetes-on-amd-instinct-gpus.pdf) | none on file |
+| LLM Serving Inference with vLLM and MI300X GPUs | AMD AI Academy | Oct 23, 2026 | [PDF](amd/llm-serving-inference-with-vllm-and-mi300x-gpus.pdf) | none on file |
+
 ## Handshake AI Skills Studio
 
 Handshake does not issue certificate files for these. Finishing a mission adds a project to my Handshake Showcase, and submitting a Showcase project earns the AI Project Builder badge. The project pages sit inside Handshake, so you need to be signed in to view them. More detail is in the [Handshake folder](handshake/README.md).
@@ -79,4 +102,7 @@ Handshake does not issue certificate files for these. Finishing a mission adds a
 
 ## LinkedIn Learning
 
-Nothing here yet. I will add these as I collect them.
+| Course | Issuer | Date earned | File | Verify |
+|---|---|---|---|---|
+| Financial Modeling Foundations | LinkedIn Learning | Oct 5, 2026 | [PNG](linkedin/financial-modeling-foundations.png) | [linkedin.com](https://www.linkedin.com/learning/certificates/f2588cdce2e76f53df0d74cb1d8f5486f7673891eafa3b9a43c6025aec8e9c2a) |
+| Practical Python for Algorithmic Trading | LinkedIn Learning | Oct 5, 2026 | [PNG](linkedin/practical-python-for-algorithmic-trading.png) | [linkedin.com](https://www.linkedin.com/learning/certificates/d0561aeeaaa5ba0b853d1f30d405dc971ecea7732ae748047b4dd145e3c30a2a) |
