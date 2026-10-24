@@ -115,3 +115,7 @@ Handshake does not issue certificate files for these. Finishing a mission adds a
 |---|---|---|---|---|
 | Financial Modeling Foundations | LinkedIn Learning | Oct 5, 2026 | [PNG](linkedin/financial-modeling-foundations.png) | [linkedin.com](https://www.linkedin.com/learning/certificates/f2588cdce2e76f53df0d74cb1d8f5486f7673891eafa3b9a43c6025aec8e9c2a) |
 | Practical Python for Algorithmic Trading | LinkedIn Learning | Oct 5, 2026 | [PNG](linkedin/practical-python-for-algorithmic-trading.png) | [linkedin.com](https://www.linkedin.com/learning/certificates/d0561aeeaaa5ba0b853d1f30d405dc971ecea7732ae748047b4dd145e3c30a2a) |
+
+---
+
+More of my work is on my [GitHub profile](https://github.com/ALENZACODES).
